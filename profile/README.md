@@ -1,6 +1,6 @@
-## Bienvenidos 👋
+# Bienvenidos 👋
 
-🍿♀️ TlacoSoft
+## Integrantes
 
 👩‍💻 Braquetes López Edgar Rodolfo
 

@@ -1,11 +1,19 @@
-## Hi there 👋
+## Bienvenidos 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🍿♀️ TlacoSoft
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 
 
-🍿 Fun facts - what does your team eat for breakfast?
+🙋‍ Braquetes López Edgar Rodolfo
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍ Marcial Méndez Brenda
+
+🙋‍ Martínez Carreño Mara Andrea
+ 
+🙋‍ Martínez Castro José Alfredo
+
+🙋‍ Martínez Quero Jezreel Oseas
+
+🙋‍ Mendoza Padilla Nayeli Michelle

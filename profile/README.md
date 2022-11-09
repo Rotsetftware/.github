@@ -4,14 +4,10 @@
 
 👩‍💻 Braquetes López Edgar Rodolfo
 
-🙋‍ Marcial Méndez Brenda
+👩‍💻 Hernández López Diego Alejandro
 
-🙋‍ Martínez Carreño Mara Andrea
- 
-👩‍💻 Martínez Castro José Alfredo
+🙋‍ López García Magaly Rotset
 
-👩‍💻 Martínez Júarez Ramiro
-
-👩‍💻 Martínez Quero Jezreel Oseas
+👩‍💻 Mancera Pacheco Román Mancera
 
 🙋‍ Mendoza Padilla Nayeli Michelle
